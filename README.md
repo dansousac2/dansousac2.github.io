@@ -15,7 +15,7 @@ Através de um repositório no Github é possível armazenar um site estático (
 
 Por meio da edição de partes do código, alteramos a aparência da nossa página web.
 
-![partesEditadas](partedit.png)
+![partesEditadas](partEdit.png)
 
 ## Ambiente de Desenvolvimento
 É necessário ter instalado o VSC- Visual Studio Code ou ferramenta similar, juntamente com o Git, estando este vinculado a sua conta do Github.
